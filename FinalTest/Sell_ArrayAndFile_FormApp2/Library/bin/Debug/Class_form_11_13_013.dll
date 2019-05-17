@@ -1,0 +1,295 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+using Library;
+
+namespace Homework_2014_12_27
+{
+    public partial class GradeBookForm : Form
+    {
+        //副程式
+        SaveFile ToFile = new SaveFile();
+        Check ToCheck = new Check();
+        MyGradeBook ToGrade = new MyGradeBook();
+
+        public bool WriteOn, ReadOn;
+        bool[] checks = new bool[10];
+        public string CourseName,StudentNumber, RecordNumber;
+
+        //陣列化
+        public TextBox[] TextBoxes;
+        public Label[] Labels;
+        public Label[] Levels;
+
+        // 宣告共幾個東西
+        const int InputNo = 10;
+        const int LevelNo = 5;
+        const int LabelNo = 10;
+
+        int index = 0;
+        double[] Averages;
+        string[] StudentNO;
+        string[] Names;
+   //     string ReadAll;
+
+        public GradeBookForm()
+        {
+            InitializeComponent();
+
+            //陣列化
+            AllLabel();
+            AllTextBox();
+            AllLevel();
+
+            // enabled
+            InputGroupBox.Enabled = false;
+            ResultGroupBox.Enabled = false;
+        }
+
+        private void ExitBtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }//end exitbtn
+
+        private void KeyInRaidBtn_CheckedChanged(object sender, EventArgs e)
+        {
+            OpenFileBtn.Visible = true;
+            ReadFileBtn.Visible = false;
+            WriteOn = true;
+            ReadOn = false;
+        }// radiobtn 輸入
+
+        private void ReadRaidBtn_CheckedChanged(object sender, EventArgs e)
+        {
+            ReadFileBtn.Visible = true;
+            OpenFileBtn.Visible = false;
+            ReadOn = true;
+            WriteOn = false;
+        }//radiobtn 讀檔
+
+        private void OpenFileBtn_Click(object sender, EventArgs e)
+        {
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                StartBtn.Visible = true;
+                ToFile.fileWriter = File.AppendText(saveFileDialog.FileName);
+                MessageBox.Show("開檔成功");
+                OpenFileBtn.Visible = false;
+                ChooseGroupBox.Enabled = false;
+            }
+        }//end 開檔
+
+        private void StartBtn_Click(object sender, EventArgs e)
+        {
+            checks[0] = false;
+            checks[1] = false;
+            checks[2] = false;
+
+            //輸入並偵錯
+            CourseName = CourseNameTB.Text;
+            checks[0] = ToCheck.checkstring(CourseName);
+            StudentNumber = StudentNumberTB.Text;
+            checks[1] = ToCheck.checkint(StudentNumber, -1, 99999, 1);
+            RecordNumber = RecordNumberTB.Text;
+            checks[2] = ToCheck.checkint(RecordNumber, -1, 11 , 1);
+
+            //無錯誤
+            if (checks[0] && checks[1] && checks[2])
+            {
+                ToGrade.GradeBook(CourseName, int.Parse(StudentNumber), int.Parse(RecordNumber));
+
+                StartGroupBox.Enabled = false;
+                InputGroupBox.Enabled = true;
+                WriteFileBtn.Visible = true;
+
+                ShowLabelsAndTextBox();
+
+                //宣告陣列大小
+                StudentNO = new string[int.Parse(StudentNumber)];
+                Names = new string[int.Parse(StudentNumber)];
+                Averages = new double[int.Parse(StudentNumber)];
+                ShowBox.Items.Add("學號\t\t姓名\t平均成績");
+            }
+            else
+            {
+                CourseNameTB.Text = string.Empty;
+                StudentNumberTB.Text = string.Empty;
+                RecordNumberTB.Text = string.Empty;
+                MessageBox.Show("輸入錯誤，請重新輸入");
+            }
+        }//end 開始輸入
+
+        private void ReadFileBtn_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                ToFile.fileReader = File.OpenText(openFileDialog.FileName);
+            }
+            ReadFileBtn.Visible = false;
+/*
+            CourseName = ToFile.fileReader.ReadLine().Split('\t').ToString();
+            StudentNumber=ToFile.fileReader.ReadLine().Split('\t').ToString();
+            RecordNumber = ToFile.fileReader.ReadLine().Split('\t').ToString();
+
+            StudentNO = new string[int.Parse(StudentNumber)];
+            Names = new string[int.Parse(StudentNumber)];
+            Averages = new double[int.Parse(StudentNumber)];
+
+            for (int i = 0; i < 6; i++)
+            {
+                ToFile.fileReader.ReadLine();
+            }
+
+            for (int count = 1; count <= int.Parse(StudentNumber); count++)
+            {
+                ReadAll += ToFile.fileReader.ReadLine();
+            }
+            string[] SplitReadAll = ReadAll.Split('\t');
+
+            for (int count = 0; count < int.Parse(StudentNumber) * 3; count += 3)
+            {
+                int index = 0;
+                StudentNO[index] = SplitReadAll[count];
+                Names[index] = SplitReadAll[count + 1];
+                Averages[index] = double.Parse(SplitReadAll[count + 2]);
+                ++index;
+            } QQ  split好難啊啊阿啊啊啊阿啊 ...
+ */
+
+            while (!ToFile.fileReader.EndOfStream)
+            {
+                ShowBox.Items.Add(ToFile.fileReader.ReadLine());
+            }
+        }//end 讀檔
+
+        private void CloseFileBtn_Click(object sender, EventArgs e)
+        {
+            if (WriteOn)
+            {
+                ToFile.fileWriter.WriteLine(ToGrade.show);
+
+                ToFile.fileWriter.Close();
+                CloseFileBtn.Visible = false;
+                MessageBox.Show("關檔成功");
+            }
+            else
+            {
+                ToFile.fileReader.Close();
+                CloseFileBtn.Visible = false;
+                MessageBox.Show("關檔成功");
+            }
+        } // end 關檔
+        private void WriteFileBtn_Click(object sender, EventArgs e)
+        {
+            double[] grades = new double[int.Parse(RecordNumber)];
+            bool checkname = false;
+            bool checkid = false;
+            bool checkall = true;
+
+            for (int count = 0; count <= int.Parse(RecordNumber) - 1; count++)
+            {
+                checks[count] = ToCheck.checkdouble(TextBoxes[count].Text, -0.0001, 100.0001, 1);
+                if (!checks[count])
+                {
+                    checkall = false;
+                    MessageBox.Show("第 " + (count+1) + " 個成績輸入錯誤，請重新輸入");
+                    TextBoxes[count].Text = string.Empty;
+                }
+                else
+                {
+                    grades[count] = double.Parse(TextBoxes[count].Text);
+                }
+            }
+
+            checkname = ToCheck.checkstring(NameTB.Text);
+            if (checkname) Names[index] = NameTB.Text;
+            else 
+            {
+                MessageBox.Show("名字輸入錯誤");
+                NameTB.Text = string.Empty;
+            }
+            checkid = ToCheck.checkstring(StudentID_TB.Text);
+            if (checkid) StudentNO[index] = StudentID_TB.Text;
+            else
+            {
+                MessageBox.Show("學號輸入錯誤");
+                StudentID_TB.Text = string.Empty;
+            }
+
+            if(checkid && checkname && checkall)
+            {
+                Averages[index] = grades.Average();
+                ShowBox.Items.Add(StudentNO[index] + "\t" + Names[index] + "\t" + Averages[index]);
+                NameTB.Text = string.Empty; 
+                StudentID_TB.Text = string.Empty;
+                index++;
+                for (int count = 0; count <= int.Parse(RecordNumber) - 1; count++)
+                {
+                    TextBoxes[count].Text = string.Empty;
+                }
+            }
+
+            if (index == int.Parse(StudentNumber))
+            {
+                InputGroupBox.Enabled = false;
+                ResultGroupBox.Enabled = true;
+                ResultBtn.Visible = true;
+            }         
+        }// end 寫檔
+
+        private void ResultBtn_Click(object sender, EventArgs e)
+        {
+            ToGrade.GradesArray(Averages);
+            Max_show.Text = ToGrade.GetMaximum().ToString();
+            Min_show.Text = ToGrade.GetMinimum().ToString();
+            Average_show.Text = Averages.Average().ToString();
+            level_A_show.Text = ToGrade.GetA_Level().ToString();
+            level_B_show.Text = ToGrade.GetB_Level().ToString();
+            level_C_show.Text = ToGrade.GetC_Level().ToString();
+            level_D_show.Text = ToGrade.GetD_Level().ToString();
+            level_F_show.Text = ToGrade.GetF_Level().ToString();
+           
+            ToGrade.DisplayMessage(); 
+            ToGrade.ProcessGrades(StudentNO,Names);
+            MessageBox.Show(ToGrade.show);
+            ResultBtn.Enabled = false;
+            CloseFileBtn.Visible = true;
+        }//end 計算結果
+
+        public void AllTextBox()
+        {
+            TextBoxes = new TextBox[InputNo] { textBox3, textBox4, textBox5, textBox6, textBox7, textBox8, textBox9, textBox10, textBox11, textBox12 };
+        }
+
+        public void AllLabel()
+        {
+            Labels = new Label[LabelNo] { label3, label4, label5, label6, label7, label8, label9, label10, label11, label12 };
+        }
+
+        public void AllLevel()
+        {
+            Levels = new Label[LevelNo] { level_A_show, level_B_show, level_C_show, level_D_show, level_F_show };
+        }
+
+        private void ShowLabelsAndTextBox()
+        {
+            for (int count = 0; count <= int.Parse(RecordNumber) - 1; count++)
+            {
+                TextBoxes[count].Visible = true;
+                Labels[count].Visible = true;
+            }
+        }
+
+        private void ClearBtn_Click(object sender, EventArgs e)
+        {
+            ShowBox.Items.Clear();
+        }//end clearbtn
+    }
+}

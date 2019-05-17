@@ -1,0 +1,18 @@
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb

@@ -1,0 +1,25 @@
+c:\users\s303\documents\visual studio 2012\Projects\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+c:\users\s303\documents\visual studio 2012\Projects\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+c:\users\s303\documents\visual studio 2012\Projects\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+c:\users\s303\documents\visual studio 2012\Projects\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\s303\Desktop\Window_form\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\s303\Desktop\Window_form\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\s303\Desktop\Window_form\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\s303\Desktop\Window_form\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+K:\WEI\new\Homework2\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+K:\WEI\new\Homework2\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+K:\WEI\new\Homework2\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.csprojResolveAssemblyReference.cache
+K:\WEI\new\Homework2\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+K:\WEI\new\Homework2\Window_form_013_023\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.csprojResolveAssemblyReference.cache
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb

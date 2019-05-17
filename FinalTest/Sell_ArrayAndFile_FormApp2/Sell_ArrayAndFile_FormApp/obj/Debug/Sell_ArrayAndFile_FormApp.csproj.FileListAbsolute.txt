@@ -1,0 +1,51 @@
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.pdb
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.saleBookForm.resources
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.Properties.Resources.resources
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csproj.GenerateResource.Cache
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+c:\users\mac\documents\visual studio 2012\Projects\Sell_ArrayAndFile_FormApp\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+C:\Users\mac\Documents\Visual Studio 2012\Projects\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+C:\Users\mac\Documents\Visual Studio 2012\Projects\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+C:\Users\mac\Documents\Visual Studio 2012\Projects\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.pdb
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csprojResolveAssemblyReference.cache
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.saleBookForm.resources
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.Properties.Resources.resources
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csproj.GenerateResource.Cache
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\IM\Desktop\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.pdb
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.pdb
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.dll
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.pdb
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csprojResolveAssemblyReference.cache
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.saleBookForm.resources
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.Properties.Resources.resources
+F:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csproj.GenerateResource.Cache
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.pdb
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.dll
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\ClassLibrary_11_20_013_023.pdb
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csprojResolveAssemblyReference.cache
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.saleBookForm.resources
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.Properties.Resources.resources
+I:\世新\C#\A103223013_翁華威\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.csproj.GenerateResource.Cache
+I:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+I:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+I:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb
+M:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\bin\Debug\Sell_ArrayAndFile_FormApp.exe.config
+M:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.exe
+M:\世新\C#\上學期期末考\Sell_ArrayAndFile_FormApp2\Sell_ArrayAndFile_FormApp\obj\Debug\Sell_ArrayAndFile_FormApp.pdb

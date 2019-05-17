@@ -1,0 +1,33 @@
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_11_13\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.dll
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_015.csprojResolveAssemblyReference.cache
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Documents\Visual Studio 2012\Projects\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.dll
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_015.csprojResolveAssemblyReference.cache
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\S303\Desktop\Class_4_Form_Lottery\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_015.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week5_homework\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\bin\Debug\Class_form_11_13.pdb
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_015.csprojResolveAssemblyReference.cache
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\IM\Documents\Visual Studio 2013\Projects\Class6_GradeBook\ClassLibrary_11_20_013_023\ClassLibrary_11_20_013_023\obj\Debug\ClassLibrary_11_20_013_023.pdb
